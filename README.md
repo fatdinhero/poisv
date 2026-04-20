@@ -31,7 +31,7 @@ their reference implementations, and interactive Jupyter notebooks.
 ## Source Archive
 
 Hashes correspond to the SHA256SUMS manifest inside the published ZIP.
-All 17 documents (DE/EN/TR) are anchored under the single Zenodo DOI
+All 18 documents (DE/EN/TR) are anchored under the single Zenodo DOI
 **10.5281/zenodo.19642292**.
 
 | File                                    | Language |
@@ -43,6 +43,9 @@ All 17 documents (DE/EN/TR) are anchored under the single Zenodo DOI
 | `MetaBell_Theorie_v1_{DE,EN,TR}.pdf`    | DE/EN/TR |
 | `PoWW_Whitepaper_v2_{DE,EN,TR}.pdf`     | DE/EN/TR |
 | `PoISV_Whitepaper_v1.0_{DE,EN,TR}.pdf`  | DE/EN/TR |
+| [Bell-SPVU Paper](https://doi.org/10.5281/zenodo.19656679) — DOI 10.5281/zenodo.19656679 | EN |
+
+SHA256 (Bell-SPVU Paper): `ac0b646d6889bd94ae676302086de0f42af6d7185da4aa2a4c58fb068eab2f45`
 
 ## Three Reference Packages
 
